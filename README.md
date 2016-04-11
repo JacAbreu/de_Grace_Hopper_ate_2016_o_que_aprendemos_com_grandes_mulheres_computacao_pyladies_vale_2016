@@ -1,1 +1,1 @@
-# de_Grace_Hopper_ate_2016_o_que_aprendemos_com_grandes_mulheres_computacao_pyladies_vale_2016
+# De Grace Hopper ate 2016: O que aprendemos com grandes mulheres computacao - Pyladies Vale (São José dos Campos) 2016
